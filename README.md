@@ -1,4 +1,4 @@
-# SQL-practice
+# SQL Analytics
 
 SQL exercises and reviewed solutions by Vladimir Trifonov, as part of learning data analytics.
 
